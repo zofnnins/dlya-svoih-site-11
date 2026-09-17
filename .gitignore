@@ -6,3 +6,4 @@ site.json
 build-report.json
 __pycache__/
 .env*
+.vercel
