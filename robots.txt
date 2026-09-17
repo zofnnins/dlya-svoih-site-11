@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dlya-svoih-site-11.vercel.app/sitemap.xml

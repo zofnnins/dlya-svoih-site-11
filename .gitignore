@@ -1,0 +1,8 @@
+_source/
+backups/
+.git/
+.vercel/
+site.json
+build-report.json
+__pycache__/
+.env*
